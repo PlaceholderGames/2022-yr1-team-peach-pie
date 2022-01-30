@@ -39,15 +39,15 @@ Follow us on Social Media!
 <a href="https://twitter.com/PeachPieGamedev"><img height="125" src="https://github.com/PlaceholderGames/2022-yr1-team-peach-pie/blob/readme-page-assets/DesignAssets/Untitled-1.png?raw=true"></a>&nbsp;&nbsp;
 
 You can follow PeachPie on Twitter! (Click the Pie goddamn it!) 
-((P.S. More links will be added as they are created))
+<p>((P.S. More links will be added as they are created))</br>
 
 Credits
 --- 
-As mentioned above, the team is composed of Eira, Jake, David and Dylan! However, this ReadMe may be updated with more contributors and a more detailed list of what was contributed and who by! 
+<p>As mentioned above, the team is composed of Eira, Jake, David and Dylan! However, this ReadMe may be updated with more contributors and a more detailed list of what was contributed and who by!</br>
 
-All Pie art belongs to Eira - Credit to her for the kickass art! 
+<p>All Pie art belongs to Eira - Credit to her for the kickass art!</br> 
 
-Thanks to DoctorMikeReddy for any help and support he may (and eventually will give) during the progression of this game! 
+<p>Thanks to DoctorMikeReddy for any help and support he may (and eventually will give) during the progression of this game!</br> 
 
 Thanks to you for reading this!
 
