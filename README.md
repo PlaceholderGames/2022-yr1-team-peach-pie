@@ -27,7 +27,7 @@ Milestone 3 - Making a start on the first levels!
 
 <p>Major Milestone 1 - Finishing the Alpha Build of our game!</br> 
 
-Milestone 4 - Finalising our Aesthetics! 
+<p>Milestone 4 - Finalising our Aesthetics!</br> 
 Milestone 5 - Finalising the first level!
 Milestone 6 - Everything Mechanics Wise Working! 
 
