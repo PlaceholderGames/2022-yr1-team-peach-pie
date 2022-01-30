@@ -43,7 +43,7 @@ You can follow PeachPie on Twitter! (Click the Pie goddamn it!)
 
 Credits
 --- 
-<p>As mentioned above, the team is composed of Eira, Jake, David and Dylan! However, this ReadMe may be updated with more contributors and a more detailed list of what was contributed and who by!</br>
+<p>As mentioned above, the team is composed of Eira, Rhys, Jake, David and Dylan! However, this ReadMe may be updated with more contributors and a more detailed list of what was contributed and who by!</br>
 
 <p>All Pie art belongs to Eira - Credit to her for the kickass art!</br> 
 
