@@ -22,17 +22,17 @@ Made in; Unreal Engine 4
 
 Our Milestones!
 --- 
-<strike>Milestone 1 - Starting with putting down our game ideas!</strike> 
-Milestone 2 - Thinking of a name for our game! 
-Milestone 3 - Making a start on the first levels! 
+<strike><p>Milestone 1 - Starting with putting down our game ideas!</br></strike> 
+Milestone 2 - Thinking of a name for our game!
+<p>Milestone 3 - Making a start on the first levels!</br>
 
 <p>Major Milestone 1 - Finishing the Alpha Build of our game!</br> 
 
 <p>Milestone 4 - Finalising our Aesthetics!</br> 
-Milestone 5 - Finalising the first level!
-Milestone 6 - Everything Mechanics Wise Working! 
+<p>Milestone 5 - Finalising the first level!</br>
+<p>Milestone 6 - Everything Mechanics Wise Working!</br>
 
-<p>Major Milestone 1 - First Showcase of our game! (Assuming there is one)</br>
+<p>Major Milestone 2 - First Showcase of our game! (Assuming there is one)</br>
 
 
 Follow us on Social Media!
