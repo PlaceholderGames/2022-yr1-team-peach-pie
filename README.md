@@ -1,6 +1,6 @@
 <p align = 'center'>
-<img src="https://github.com/PlaceholderGames/2022-yr1-team-peach-pie/blob/readme-page-assets/DesignAssets/PeachPieBanner.png">
-<img src="https://github.com/PlaceholderGames/2022-yr1-team-peach-pie/blob/readme-page-assets/DesignAssets/PeachPieText.png?raw=true">
+<img src="https://i.ibb.co/stdwPdg/Peach-Pie-Banner.png" alt="Peach-Pie-Banner" border="0">
+<img src="https://i.ibb.co/5jrm2CB/Peach-Pie-Text.png" alt="Peach-Pie-Text" border="0">
 </p>
 
 
@@ -36,7 +36,7 @@ Milestone 6 - Everything Mechanics Wise Working!
 
 Follow us on Social Media!
 --- 
-<a href="https://twitter.com/PeachPieGamedev"><img height="125" src="https://github.com/PlaceholderGames/2022-yr1-team-peach-pie/blob/readme-page-assets/DesignAssets/Untitled-1.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://twitter.com/PeachPieGamedev"><img height="125" src="https://i.ibb.co/vBjG0jz/Untitled-1.png?raw=true"></a>&nbsp;&nbsp;
 
 You can follow PeachPie on Twitter! (Click the Pie goddamn it!) 
 <p>((P.S. More links will be added as they are created))</br>
