@@ -1,5 +1,6 @@
 <p align = 'center'>
-<img src="https://i.ibb.co/stdwPdg/Peach-Pie-Banner.png" alt="Peach-Pie-Banner" border="0">
+
+<img src="https://i.ibb.co/V3cSNcL/Peach-Pie-Banner.png" alt="Peach-Pie-Banner" border="0">
 <img src="https://i.ibb.co/5jrm2CB/Peach-Pie-Text.png" alt="Peach-Pie-Text" border="0">
 </p>
 
