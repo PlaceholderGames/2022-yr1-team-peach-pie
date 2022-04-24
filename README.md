@@ -23,8 +23,8 @@ Made in; Unreal Engine 4
 Our Milestones!
 --- 
 <strike><p>Milestone 1 - Starting with putting down our game ideas!</br></strike> 
-Milestone 2 - Thinking of a name for our game!
-<p>Milestone 3 - Making a start on the first levels!</br>
+<strike>Milestone 2 - Thinking of a name for our game!</strike>
+<strike><p>Milestone 3 - Making a start on the first levels!</br></strike>
 
 <p>Major Milestone 1 - Finishing the Alpha Build of our game!</br> 
 
@@ -54,5 +54,3 @@ Thanks to you for reading this!
 
 We love you, keep eating Pie! 
 --- 
-
-
